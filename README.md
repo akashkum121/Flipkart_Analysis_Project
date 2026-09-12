@@ -2,7 +2,7 @@
 
 **An end-to-end data analytics project** — from a raw, messy 420K+ row e-commerce dataset to a fully interactive Power BI dashboard, uncovering the root causes behind revenue volatility and an abnormally high return rate.
 
-![Dashboard]((https://github.com/akashkum121/Flipkart_Analysis_Project/blob/main/Screenshots/Dashboard.png))
+(https://github.com/akashkum121/Flipkart_Analysis_Project/blob/main/Screenshots/Dashboard.png))
 
 ---
 
