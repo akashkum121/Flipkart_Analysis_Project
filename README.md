@@ -92,7 +92,7 @@ customers ──1:N── orders ──1:N── order_items ──1:N── ret
                                      └─────N:1── products
 ```
 
-![Model Relationships](model_relationships.png)
+![Model Relationships](https://github.com/akashkum121/Flipkart_Analysis_Project/blob/main/Screenshots/Data%20relationship.png)
 
 All date columns include derived `Year`, `Month`, `Month Name`, `Quarter`, and `Year-Month` fields for time-intelligence visuals, with month sorted chronologically via "Sort by Column."
 
