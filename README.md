@@ -6,19 +6,6 @@
 
 ---
 
-## 📖 Table of Contents
-- [Project Overview](#-project-overview)
-- [Problem Statement](#-problem-statement)
-- [Dataset](#-dataset)
-- [Tech Stack](#-tech-stack)
-- [Data Cleaning Process](#-data-cleaning-process)
-- [Data Model](#-data-model)
-- [Dashboard Features](#-dashboard-features)
-- [Key Insights](#-key-insights)
-- [Recommendations](#-recommendations)
-- [How to Run](#-how-to-run)
-- [Project Structure](#-project-structure)
-
 ---
 
 ## 🧭 Project Overview
@@ -138,7 +125,7 @@ All date columns include derived `Year`, `Month`, `Month Name`, `Quarter`, and `
 Clone this repo
 Open Power BI Desktop → Get Data → Text/CSV and load each file from data/
 Set up relationships between tables as shown in model_relationships.png (star schema, centered on order_items)
-Rebuild visuals using the Dashboard Features and DAX measures described above
+
 
 ---
 
